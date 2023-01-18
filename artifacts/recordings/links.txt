@@ -1,0 +1,31 @@
+UI Design Studio Part 1 - https://drive.google.com/file/d/1tUfoVqdJCtX5k7wWT23jgH1tZnMey6Ew/view
+Agenda:
+1. Run UI design studio course to discuss and finalise the app wireframe 
+2. Discuss and complete team formation with team chart and standup meeting agreement
+
+
+UI Design Studio Part 2 - https://drive.google.com/file/d/1YNKhUCWNVfdC6d5liZVCEaHj0rEM6DSO/view
+Agenda:
+1. Run UI design studio retro course to update wireframe design---use same timestmp for todo task and reminder
+2. Discuss issue tickets and assign some of the tickets to team members
+
+Project Standup 1 - https://drive.google.com/file/d/1XRv05duevXZvqtZa_W0dumxE31B6T6Kt/view
+Agenda:
+1. Synchronize everyone's works to discuss next tasks to tackle.
+
+Project Standup 2 -https://drive.google.com/file/d/1YjB0EuaOKZHV2lGlr95RY0R-HhJVto3h/view
+Agenda:
+1. Discuss how we can deploy the first release at play google 
+2. Sync my progress and assign various issue tickets to team member
+
+Project Standup 3 -https://drive.google.com/file/d/1kMg40mX5pY8SN0P3aOb3AgBZFdSP6Yw0/view
+Agenda:
+1. co-work on the first deployment
+
+Project Standup 4 -https://drive.google.com/file/d/1ds_urZFZxx05F165HXxScZ1_WH-rTRSF/view
+Agenda:
+1. continue the deployment co-work on the first deployment
+
+Project Standup 5 - 
+Agenda:
+1. co-work on the second deployment

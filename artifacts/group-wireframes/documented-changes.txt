@@ -1,0 +1,3 @@
+Final Design of Reminder App
+- Removed custom notification times for reminder
+- Create landscape view of app
